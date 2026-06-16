@@ -13,8 +13,8 @@ data:
       username: praveens
     - groups:
       - roboshop-admin
-      userarn: arn:aws:iam::008616580268:user/praveens
-      username: praveens
+      userarn: arn:aws:iam::008616580268:user/Ramesh
+      username: Ramesh
 kind: ConfigMap
 metadata:
   creationTimestamp: "2026-06-16T07:10:48Z"
