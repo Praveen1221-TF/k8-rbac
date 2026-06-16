@@ -9,7 +9,7 @@ data:
   mapUsers: |
     - groups:
       - roboshop-trainee
-      userarn: arn:arn:aws:iam::008616580268:user/praveens
+      userarn: arn:aws:iam::008616580268:user/praveens
       username: praveens
 kind: ConfigMap
 metadata:
